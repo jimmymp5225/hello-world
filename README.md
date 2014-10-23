@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-github tutorial
+I'm trying to learn github today.
